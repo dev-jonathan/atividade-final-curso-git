@@ -27,8 +27,8 @@ b) Cite a funcionalidade de cada um desses comandos.
 
 ### 5. Com suas palavras, diga o que é um merge no Git e quando deve ser usado.
 
-### 3. Responda:
-3.1) Responda V(Verdadeiro) e F(Falso) para os seguintes comandos.
+### 6. Responda:
+6.1) Responda V(Verdadeiro) e F(Falso) para os seguintes comandos.
 
 ( ) git pull é um comando válido. 
 
