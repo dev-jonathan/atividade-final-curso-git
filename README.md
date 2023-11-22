@@ -30,7 +30,7 @@ b) Cite a funcionalidade de cada um desses comandos.
 ## Prática 1
 
 1. **Customização da Bio do GitHub:** 
-   Customize sua bio do GitHub, caso não tenha feito ainda.
+   Customize sua bio do GitHub, caso não tenha feito ainda. Template para se inspirar caso queira: https://gprm.itsvg.in/
 
 2. **Criação de Repositório Local:** 
    Crie um repositório local, nele você realizará todas as tarefas deste trabalho.
@@ -54,7 +54,7 @@ b) Cite a funcionalidade de cada um desses comandos.
 
 1. **Clonagem de Repositório Público:**
    Escolha um repositório público qualquer do GitHub. Clone-o e execute as seguintes tarefas através de um terminal:
-   - Mostrar o último commit.
+   - Exibir as informações sobre o último commit.
    - Mostrar a qual repositório remoto está associado.
    - Listar as branches.
 
