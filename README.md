@@ -29,10 +29,15 @@ b) Cite a funcionalidade de cada um desses comandos.
 
 ### 3. Responda:
 3.1) Responda V(Verdadeiro) e F(Falso) para os seguintes comandos.
-() git pull é um comando válido. 
-() git git reflog é um comando válido.
-() git dbsu é um comando válido.
-() git pre-commit é um comando válido.
+
+( ) git pull é um comando válido. 
+
+( ) git git reflog é um comando válido.
+
+( ) git dbsu é um comando válido.
+
+( ) git pre-commit é um comando válido.
+
 ## Prática 1
 
 1. **Customização da Bio do GitHub:** 
@@ -65,4 +70,8 @@ b) Cite a funcionalidade de cada um desses comandos.
    - Listar as branches.
 
 2. **Documentando a Atividade:**
-   Tire prints do terminal mostrando tudo e adicione ao seu repositório pessoal da Prática 1. Não esqueça de fazer o push.
+   Tire prints do terminal mostrando todo o processo e adicione ao seu repositório pessoal da Prática 1. Não esqueça de fazer o push.
+
+# Envio:
+
+Envie o link do seu repositório para o WhatsApp do professor
